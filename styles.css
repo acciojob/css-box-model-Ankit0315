@@ -1,11 +1,17 @@
 
 /* Your CSS Code here. */
-.a{
+p{
+	 color:black;
 	width:300px;
-	padding:50px;
-	border:15px;
-	border-color:solid blue;
-	margin:20px;
+         background-color:lightblue;
+	padding-width:50px;
+	padding-color:ligth blue;
+	padding-style:solid;
+           padding: 50px;
+           border-width: 15px;
+           border-color:blue;
+           border-style: solid;
+           margin:20px;
 	
 	
 }

@@ -1,17 +1,7 @@
-
-/* Your CSS Code here. */
-p{
-	 color:black;
+.model{
+	background-color:lightblue;
+	padding:50px;
 	width:300px;
-         background-color:lightblue;
-	padding-width:50px;
-	padding-color:ligth blue;
-	padding-style:solid;
-           padding: 50px;
-           border-width: 15px;
-           border-color:blue;
-           border-style: solid;
-           margin:20px;
-	
-	
+	border:15px solid blue;
+	margin:20px;
 }
